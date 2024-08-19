@@ -17,3 +17,8 @@ Hay muchas temporadas en las que las ventas son significativamente superiores o 
 Con una predicción precisa, la empresa puede determinar las demandas estacionales y tomar medidas al respecto.
 Protegerse de las pérdidas de dinero, ya que la consecución de los objetivos de ventas puede tener un efecto positivo en el precio de las acciones y en la percepción de los inversores.
 Prever los ingresos con facilidad y precisión gestionar los inventarios realizar campañas más eficaces
+
+
+
+**Fuente del DataSet:**
+https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast
